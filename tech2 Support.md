@@ -1,48 +1,33 @@
 Namaste React ❤ 
 
-1.What is Emmets ?
+**1.What is Emmets ?**
 - Emmet is the essential toolkit for web-developers
 - Emmet is mostly used for HTML, XML, and CSS, but it can also be used with programming languages. 
-
-2.what is CDN ?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**2.what is CDN ?**
 - A content delivery network (CDN) is a network of interconnected servers that speeds up webpage loading for data-heavy applications. 
 - CDN can stand for content delivery network or content distribution network.
 - better performance, increased reliability, cost savings, and resilience against cyber attacks.
-
-3.what is CrossOrigin ?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**3.what is CrossOrigin ?**
 - The crossorigin attribute sets the mode of the request to an HTTP CORS Request.
 - A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
 - CORS is used to manage cross-origin requests.
 
-4.Whta is Git and GitHub Difference ?
-1.	Git is a software.	                                               | GitHub is a service.
-2.	Git is a command-line tool	                                       | GitHub is a graphical user interface
-3.	Git is installed locally on the system	                           | GitHub is hosted on the web
-4.	Git is maintained by linux.	                                       | GitHub is maintained by Microsoft.
-5.	Git is focused on version control and code sharing.	               | GitHub is focused on centralized source code hosting.
-6.	Git is a version control system to manage source code history.     | GitHub is a hosting service for Git repositories.
-7.	Git was first released in 2005.                                    | GitHub was launched in 2008.
-8.	Git has no user management feature.                                | GitHub has a built-in user management feature.
-9.	Git is open-source licensed.	                                   | GitHub includes a free-tier and pay-for-use tier.
-10.	Git has minimal external tool configuration.	                   | GitHub has an active marketplace for tool integration.
-11.	Git provides a Desktop interface named Git Gui.	                   | GitHub provides a Desktop interface named GitHub Desktop.
-12.	Git competes with CVS, Azure DevOps Server,                        | GitHub competes with GitLab, Bit Bucket, AWS Code Commit, etc.
-    Subversion, Mercurial, etc.	
+4. Whta is Git and GitHub Difference ?
+1.	Git is a software.	                                                GitHub is a service.
+2.	Git is a command-line tool	                                        GitHub is a graphical user interface
+3.	Git is installed locally on the system	                            GitHub is hosted on the web
+4.	Git is maintained by linux.	                                        GitHub is maintained by Microsoft.
+5.	Git is focused on version control and code sharing.	                GitHub is focused on centralized source code hosting.
+6.	Git is a version control system to manage source code history.      GitHub is a hosting service for Git repositories.
+7.	Git was first released in 2005. 
+ 	GitHub was launched in 2008.
+8.	Git has no user management feature. 
+ 	GitHub has a built-in user management feature.
+9.	Git is open-source licensed.	GitHub includes a free-tier and pay-for-use tier.
+10.	Git has minimal external tool configuration.	GitHub has an active marketplace for tool integration.
+11.	Git provides a Desktop interface named Git Gui.	GitHub provides a Desktop interface named GitHub Desktop.
+12.	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc.	GitHub competes with GitLab, Bit Bucket, AWS Code Commit, etc.
 
-4.Whta is Git and GitHub Difference ?
-+---------------------------------------------------------------+-----------------------------------------------------------------+
-| Git is a software.	                                        | GitHub is a service.						                      |
-| Git is a command-line tool	                                | GitHub is a graphical user interface				              |
-| Git is installed locally on the system	                | GitHub is hosted on the web					                      |
-| Git is maintained by linux.	                                | GitHub is maintained by Microsoft.				              |
-| Git is focused on version control and code sharing.           | GitHub is focused on centralized source code hosting.		  |
-| Git is a version control system to manage source code history.| GitHub is a hosting service for Git repositories.		  |
-| Git was first released in 2005.                               | GitHub was launched in 2008.					  |
-| Git has no user management feature.                           | GitHub has a built-in user management feature.		  |
-| Git is open-source licensed.	                                | GitHub includes a free-tier and pay-for-use tier.		  |
-| Git has minimal external tool configuration.	                | GitHub has an active marketplace for tool integration.	  |
-| Git provides a Desktop interface named Git Gui.	        | GitHub provides a Desktop interface named GitHub Desktop.	  |
-| Git competes with CVS, Azure DevOps Server,                   | GitHub competes with GitLab, Bit Bucket, AWS Code Commit, etc.  |	
-| Subversion, Mercurial, etc.	                                |                                                                 |
-+---------------------------------------------------------------+-----------------------------------------------------------------+
 
