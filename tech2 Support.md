@@ -16,5 +16,4 @@
 
 **4.Whta is Git and GitHub Difference ?**
 
-![image](https://user-images.githubusercontent.com/105979644/234563311-1539f9f9-c818-4021-9507-452120dbb3c7.png)
-
+![image](https://user-images.githubusercontent.com/105979644/234564588-14d11641-393f-4f05-8191-0da87e870b31.png)
