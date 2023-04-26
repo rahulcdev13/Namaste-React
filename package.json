@@ -1,0 +1,16 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namste react by akshay saini with rahul chavan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rahulcdev13/Namaste-React.git)"
+  },
+  "keywords": [],
+  "author": "Rahul chavan",
+  "license": "ISC"
+}
