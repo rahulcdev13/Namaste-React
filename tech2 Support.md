@@ -1,4 +1,4 @@
-Namaste React ❤ 
+**Namaste React ❤ **
 
 **1.What is Emmets ?**
 - Emmet is the essential toolkit for web-developers
