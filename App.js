@@ -4,7 +4,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(heading);
 
 // ================================
-
 {/* <div id="parent_child">
     <div id="parent">
         <div id="child">
