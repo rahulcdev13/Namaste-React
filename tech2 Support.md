@@ -1,4 +1,4 @@
-Namaste React ❤ 
+**Namaste React ❤ **
 
 **1.What is Emmets ?**
 - Emmet is the essential toolkit for web-developers
@@ -13,6 +13,7 @@ Namaste React ❤
 - The crossorigin attribute sets the mode of the request to an HTTP CORS Request.
 - A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
 - CORS is used to manage cross-origin requests.
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4.Whta is Git and GitHub Difference ?
 1.	Git is a software.	                                               | GitHub is a service.
@@ -30,4 +31,9 @@ Namaste React ❤
     Subversion, Mercurial, etc.	
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+=======
 
+**4.Whta is Git and GitHub Difference ?**
+>>>>>>> 6c2e9f818f12d57b7016c28d2fed205376b6e790
+
+![image](https://user-images.githubusercontent.com/105979644/234564588-14d11641-393f-4f05-8191-0da87e870b31.png)
