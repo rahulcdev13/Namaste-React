@@ -11,7 +11,7 @@ root.render(heading);
             <h1 id="child">Hello World from React child</h1>
         </div>
     </div>
-</div> */}
+</div>  */}
 
 const parent = React.createElement(
     "div", { id: "parent" },
